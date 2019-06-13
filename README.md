@@ -15,3 +15,4 @@ These patterns are all interactive so please click on the links below to play ar
 - [Day 10](https://evapphilips.github.io/100days_Patterns/days1-10/day10/)
 - [Day 11](https://evapphilips.github.io/100days_Patterns/days11-20/day11/)
 - [Day 12](https://evapphilips.github.io/100days_Patterns/days11-20/day12/)
+- [Day 13](https://evapphilips.github.io/100days_Patterns/days11-20/day13/)
