@@ -11,7 +11,7 @@ let scl = 20;
 function setup(){
 	// setup canvaas
 	let cvs = createCanvas(600, 600);
-	//cvs.center();
+	cvs.center();
 	background(0);
 
 	// create new dashes
