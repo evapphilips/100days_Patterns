@@ -30,3 +30,4 @@ These patterns are all interactive so please click on the links below to play ar
 - [Day 25](https://evapphilips.github.io/100days_Patterns/days21-30/day25/)
 - [Day 26](https://evapphilips.github.io/100days_Patterns/days21-30/day26/)
 - [Day 27](https://evapphilips.github.io/100days_Patterns/days21-30/day27/)
+- [Day 28](https://evapphilips.github.io/100days_Patterns/days21-30/day28/)
