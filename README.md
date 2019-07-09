@@ -41,3 +41,4 @@ These patterns are all interactive so please click on the links below to play ar
 - [Day 36](https://evapphilips.github.io/100days_Patterns/days31-40/day36/)
 - [Day 37](https://evapphilips.github.io/100days_Patterns/days31-40/day37/)
 - [Day 38](https://evapphilips.github.io/100days_Patterns/days31-40/day38/)
+- [Day 39](https://evapphilips.github.io/100days_Patterns/days31-40/day39/)
