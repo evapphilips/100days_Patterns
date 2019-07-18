@@ -49,3 +49,4 @@ These patterns are all interactive so please click on the links below to play ar
 - [Day 44](https://evapphilips.github.io/100days_Patterns/days41-50/day44/)
 - [Day 45](https://evapphilips.github.io/100days_Patterns/days41-50/day45/)
 - [Day 46](https://evapphilips.github.io/100days_Patterns/days41-50/day46/)
+- [Day 47](https://evapphilips.github.io/100days_Patterns/days41-50/day47/)
