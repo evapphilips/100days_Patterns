@@ -55,3 +55,4 @@ These patterns are all interactive so please click on the links below to play ar
 - [Day 50](https://evapphilips.github.io/100days_Patterns/days41-50/day50/)
 - [Day 51](https://evapphilips.github.io/100days_Patterns/days51-60/day51/)
 - [Day 52](https://evapphilips.github.io/100days_Patterns/days51-60/day52/)
+- [Day 53](https://evapphilips.github.io/100days_Patterns/days51-60/day53/)
