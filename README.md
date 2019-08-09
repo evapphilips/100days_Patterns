@@ -71,3 +71,4 @@ These patterns are all interactive so please click on the links below to play ar
 - [Day 66](https://evapphilips.github.io/100days_Patterns/days61-70/day66/)
 - [Day 67](https://evapphilips.github.io/100days_Patterns/days61-70/day67/)
 - [Day 68](https://evapphilips.github.io/100days_Patterns/days61-70/day68/)
+- [Day 69](https://evapphilips.github.io/100days_Patterns/days61-70/day69/)
