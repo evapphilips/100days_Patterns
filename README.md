@@ -77,3 +77,6 @@ These patterns are all interactive so please click on the links below to play ar
 - [Day 72](https://evapphilips.github.io/100days_Patterns/days71-80/day72/)
 - [Day 73](https://evapphilips.github.io/100days_Patterns/days71-80/day73/)
 - [Day 74](https://evapphilips.github.io/100days_Patterns/days71-80/day74/)
+- [Day 75](https://evapphilips.github.io/100days_Patterns/days71-80/day75/)
+- [Day 76](https://evapphilips.github.io/100days_Patterns/days71-80/day76/)
+- [Day 77](https://evapphilips.github.io/100days_Patterns/days71-80/day77/)
