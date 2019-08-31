@@ -90,3 +90,7 @@ These patterns are all interactive so please click on the links below to play ar
 - [Day 85](https://evapphilips.github.io/100days_Patterns/days81-90/day85/)
 - [Day 86](https://evapphilips.github.io/100days_Patterns/days81-90/day86/)
 - [Day 87](https://evapphilips.github.io/100days_Patterns/days81-90/day87/)
+- [Day 88](https://evapphilips.github.io/100days_Patterns/days81-90/day88/)
+- [Day 89](https://evapphilips.github.io/100days_Patterns/days81-90/day89/)
+- [Day 90](https://evapphilips.github.io/100days_Patterns/days81-90/day90/)
+- [Day 91](https://evapphilips.github.io/100days_Patterns/days91-100/day91/)
