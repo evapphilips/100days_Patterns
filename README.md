@@ -102,5 +102,6 @@ These patterns are all interactive so please click on the links below to play ar
 - [Day 97](https://evapphilips.github.io/100days_Patterns/days91-100/day97/)
 - [Day 98](https://evapphilips.github.io/100days_Patterns/days91-100/day98/)
 - [Day 99](https://evapphilips.github.io/100days_Patterns/days91-100/day99/)
+- [Day 100](https://evapphilips.github.io/100days_Patterns/days91-100/day100/)
 
 
